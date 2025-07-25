@@ -64,7 +64,7 @@ yarn preview
 
 # 🌐 Демо
 
- - [Посмотреть онлайн на GitHub Pages](https://github.com/eKoopmans/html2pdf.js)
+ - [Посмотреть онлайн на GitHub Pages](https://sergiomartinov31.github.io/front-end-entrance-exam/)
 
 
 
