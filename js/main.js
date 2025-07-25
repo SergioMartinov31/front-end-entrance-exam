@@ -91,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function generatePDF() {
-  var element = document.querySelector(".body-container");
+  var element = document.querySelector(".Pdf-container");
   var button = document.querySelector(".footer__download");
 
   var opt = {
